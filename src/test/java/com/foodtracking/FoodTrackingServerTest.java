@@ -17,7 +17,7 @@ import com.foodtracking.usda.MockFoodCatalog;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-public class FoodTrackingServerIT {
+public class FoodTrackingServerTest {
 
     private static final Charset UTF8 = Charset.forName("UTF-8");
     private FoodTrackingServer server;
